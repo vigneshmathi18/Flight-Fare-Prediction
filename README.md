@@ -20,3 +20,7 @@ In this Project,we will predict air ticket prices using infomation like airline,
 - Price	
 - Jouney_day
 - Jouney_month
+
+
+
+[![Streamlit App](https://static.streamlit.io/badges/st...)](https://share.streamlit.io/vigneshmathi18/flight-fare-prediction/main/app.py)
