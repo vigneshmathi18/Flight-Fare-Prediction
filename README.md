@@ -6,6 +6,8 @@ In this Project,we will predict air ticket prices using infomation like airline,
 
 **Output** : To predict the flight ticket price
 
+**Deployment**: Heroku Platform
+
 **Features**:
 - Airline	
 - Date_of_Journey	
